@@ -64,7 +64,7 @@
 
 > Here you can visit my live demo :
 
-- [N/A]()
+- [Live demo](https://alex1779.github.io/awesome-books-with-ES6-v3/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
